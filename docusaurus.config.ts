@@ -38,7 +38,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.dev/Cahsu0511/',
+            'https://github.dev/Cahsu0511/cahsu-note',
         },
         blog: {
           showReadingTime: true,
@@ -49,7 +49,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.dev/Cahsu0511/',
+            'https://github.dev/Cahsu0511/cahsu-note',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
